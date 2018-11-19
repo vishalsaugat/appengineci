@@ -1,0 +1,21 @@
+{
+  "name": "appengineci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "deploy": "gcloud app deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishalsaugat/appengineci.git"
+  },
+  "author": "vishal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishalsaugat/appengineci/issues"
+  },
+  "homepage": "https://github.com/vishalsaugat/appengineci#readme"
+}
